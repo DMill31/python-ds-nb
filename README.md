@@ -6,3 +6,9 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 ## Rubric
 
 Each question is worth one point.
+
+## Notebook python-ds.ipynb
+
+This notebook contains ten programming questions that guide you through some python data structures and common functions.
+The tenth question requires you to create a new notebook.
+Afterwards, both notebooks will be exported into HTML files.
